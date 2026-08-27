@@ -1,5 +1,3 @@
-## Assign Local Coordinate System to Resources
-
 This workflow allows you to link an existing Local Coordinate Reference System (CRS) to one or multiple digital resources (such as IIIF images or 3D models) in your database. 
 
 ---

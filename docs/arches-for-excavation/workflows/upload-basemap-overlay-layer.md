@@ -1,5 +1,3 @@
-## Upload Basemap/Overlay Layer
-
 This workflow allows you to upload a GeoTIFF file into the system to serve as either a basemap or an overlay layer in the map viewer. You will be guided through selecting the layer type, uploading the file, configuring its display settings (like name, sorting, and icon), assigning visibility permissions, and finally previewing the result on a map.
 
 ---

@@ -1,6 +1,4 @@
-## Add Digital Resource 3D
-
-This workflow allows you to upload and link a 3D model to an existing resource in your database. It is designed to take a 3D model package (specifically 3D Tiles format) and automatically create a new Digital Resource, linking it directly to a parent resource of your choosing.
+This workflow allows you to upload and link a 3D model to an existing **(O) Context**  resource in your database. It is designed to take a 3D model package (specifically 3D Tiles format) and automatically create a new Digital Resource, linking it directly to a parent resource of your choosing.
 
 ---
 

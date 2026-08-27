@@ -1,5 +1,3 @@
-## Define Local Coordinate System
-
 This workflow allows you to create a new Local Coordinate System (CRS) in the database. You will define the system by specifying two key components: an origin point (using both local X/Y coordinates and real-world longitude/latitude) and a direction point (using real-world longitude/latitude). 
 
 ---
