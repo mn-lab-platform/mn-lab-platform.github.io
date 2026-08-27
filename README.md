@@ -1,1 +1,1 @@
-# Mare-Nostrum-Lab-UJ.github.io
+# mn-lab-platform.github.io
