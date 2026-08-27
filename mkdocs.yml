@@ -27,8 +27,23 @@ theme:
 
 nav:
   - About Project: index.md
-  - Arches Plugins:
-    - Quick Start: arches-plugins/quickstart.md
+  - Arches for Excavation:
+    - About: arches-for-excavation/about.md
+    - Workflows: 
+      - Define Coordinate System: arches-for-excavation/workflows/define-coordinate-system.md
+      - Assign Coordinate System: arches-for-excavation/workflows/assign-coordinate-system.md
+      - GNSS/Total Station Data Import: arches-for-excavation/workflows/gnss-ts-data-import.md
+      - Upload Basemap Overlay Layer: arches-for-excavation/workflows/upload-basemap-overlay-layer.md
+      - Add Digital Resource 3D: arches-for-excavation/workflows/add-digital-resource-3d.md
+      - Annotate Digital Resource 3D: arches-for-excavation/workflows/annotate-digital-resource-3d.md
+      - Add Digital Resource IIIF: arches-for-excavation/workflows/add-digital-resource-iiif.md
+      - Add to Digital Resource IIIF: arches-for-excavation/workflows/add-to-digital-resource-iiif.md
+      - Annotate Digital Resource IIIF: arches-for-excavation/workflows/annotate-digital-resource-iiif.md
+      - Add RTI Resource: arches-for-excavation/workflows/add-rti-resource.md
+      - Add Pottery Collection: arches-for-excavation/workflows/add-pottery-collection.md
+      - Add Pottery Records: arches-for-excavation/workflows/add-pottery-records.md
+    - Plugins:
+      - Map Plugin: arches-for-excavation/plugins/map-plugin.md
   - Mare Nostrum Thesaurus:
     - Quick Start: mare-nostrum-thesaurus/quickstart.md
     - Account Management: mare-nostrum-thesaurus/account-management.md
