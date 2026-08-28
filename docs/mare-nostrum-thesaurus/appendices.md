@@ -22,19 +22,19 @@ In this section, you can find useful information about:
 
 Dictionary management is provided through four complementary components (click to visit):
 
-1. **[Mare Nostrum Thesaurus](https://thesaurus.mn.cenagis.edu.pl/wiki)** - a dictionary database that stores individual terms organized into thematic categories in a structured format.
+1. **[Mare Nostrum LAB thesaurus](https://thesaurus.mn.cenagis.edu.pl/wiki)** - a dictionary database that stores individual terms organized into thematic categories in a structured format.
 
-    ![Mare Nostrum Thesaurus](appendices/mare-nostrum-logo.png){ width="100" style="display: block; margin: 0 auto;" }
+    ![Mare Nostrum LAB thesaurus](appendices/mare-nostrum-logo.png){ width="100" style="display: block; margin: 0 auto;" }
 
-1. **[Cradle](https://thesaurus.mn.cenagis.edu.pl/tools/cradle/)** - a tool for adding new dictionary entries to Mare Nostrum Thesaurus.
+1. **[Cradle](https://thesaurus.mn.cenagis.edu.pl/tools/cradle/)** - a tool for adding new dictionary entries to Mare Nostrum LAB thesaurus.
 
     ![Cradle (Toolforge) logo](appendices/toolforge-logo.png){ width="100" style="display: block; margin: 0 auto;" }
 
-1. **[Wikibase Query Service (WBQS)](https://thesaurus.mn.cenagis.edu.pl/query/)** - a tool for advanced searching of Mare Nostrum Thesaurus using SPARQL queries.
+1. **[Wikibase Query Service (WBQS)](https://thesaurus.mn.cenagis.edu.pl/query/)** - a tool for advanced searching of Mare Nostrum LAB thesaurus using SPARQL queries.
 
     ![Wikibase Query Service logo](appendices/wbqs-logo.png){ width="100" style="display: block; margin: 0 auto;" }
 
-1. **[QuickStatements](https://thesaurus.mn.cenagis.edu.pl/tools/quickstatements/#/)** - a tool for batch editing and bulk importing data into Mare Nostrum Thesaurus.
+1. **[QuickStatements](https://thesaurus.mn.cenagis.edu.pl/tools/quickstatements/#/)** - a tool for batch editing and bulk importing data into Mare Nostrum LAB thesaurus.
 
     ![QuickStatements logo](appendices/qs-logo.png){ width="100" style="display: block; margin: 0 auto;" }
 
@@ -46,7 +46,7 @@ The table below presents a summary of the division of responsibilities for the t
 
 | Tool | Responsibility | Provided Features |
 | :--- | :--- | :--- |
-| **Mare Nostrum Thesaurus** | A dictionary database that stores data in Linked Data format as an advanced network of interconnections. | - Browsing data<br>- Displaying hierarchical data<br>- Manually adding new dictionary values |
+| **Mare Nostrum LAB thesaurus** | A dictionary database that stores data in Linked Data format as an advanced network of interconnections. | - Browsing data<br>- Displaying hierarchical data<br>- Manually adding new dictionary values |
 | **Cradle** | A visual graphical editor supporting the addition of new records to the dictionary database via an intuitive interface with a predefined set of required properties for a given thematic set. | - Adding new dictionary values in accordance with the established data model<br>- Adding hierarchically dependent dictionary values |
 | **Wikibase Query Service** | An advanced tool for multi-level searching of the dictionary database. Usage requires knowledge of SPARQL syntax as well as the relationships and structures within the Wikidata Mare Nostrum database. | - Browsing data<br>- Thematic filtering of database content<br>- Creating data visualizations |
 | **QuickStatements** | A tool for batch editing and bulk importing data into the dictionary database. It allows executing sequence-based commands (CSV/V1 formats) to automate large-scale data modifications. | - Bulk importing and creating new records<br>- Batch adding, modifying, or removing statements and properties<br>- Automated processing of structured datasets |
@@ -69,11 +69,11 @@ The table below presents a summary of the division of responsibilities for the t
 
 ## Object Feature Storage Structure
 
-Data concerning items (Q) in Mare Nostrum Thesaurus is stored as triplets: item (Q) - property (P) - value, where:
+Data concerning items (Q) in Mare Nostrum LAB thesaurus is stored as triplets: item (Q) - property (P) - value, where:
 
 - **Item** - indicates the identifier of the entity it refers to.
 
-- **Property** - defines a relationship or feature of the given item. Each property has an assigned data type that dictates what values can be entered. The list of available properties in the Mare Nostrum Thesaurus project is available [here](https://thesaurus.mn.cenagis.edu.pl/wiki/Special:ListProperties).
+- **Property** - defines a relationship or feature of the given item. Each property has an assigned data type that dictates what values can be entered. The list of available properties in the Mare Nostrum LAB thesaurus project is available [here](https://thesaurus.mn.cenagis.edu.pl/wiki/Special:ListProperties).
 
 - **Value** - represents the actual data associated with the item (it can be another item (Q), a string, a date and time, or geographic point coordinates in the WGS84 system, among others).
 
@@ -114,7 +114,7 @@ When manually adding items, it is good practice to add an inverse relationship p
 
 ![Inverse Properties Example](appendices/inverse-properties.png)
 
-The table below presents the properties used in the Mare Nostrum Thesaurus dictionaries along with their inverses.
+The table below presents the properties used in the Mare Nostrum LAB thesaurus dictionaries along with their inverses.
 
 | Property | Inverse | Occurrence |
 | :--- | :--- | :--- |

@@ -1,8 +1,8 @@
-# Recogito Studio Management Documentation
+# Recogito
 
-**[Recogito Studio](https://recogito.mn.cenagis.edu.pl/)** is a part of the Mare Nostrum LAB system. This tool is dedicated to collaborative annotation of [TEI Texts](https://tei-c.org/), [IIIF Images](https://iiif.io/) and PDFs, built on a modern platform designed to be easy to use.
+**[Recogito](https://recogito.mn.cenagis.edu.pl/)** is a part of the Mare Nostrum LAB system. This tool is dedicated to collaborative annotation of [TEI Texts](https://tei-c.org/), [IIIF Images](https://iiif.io/) and PDFs, built on a modern platform designed to be easy to use.
 
-Besides its main functionalities, Recogito Studio offers additional plugins that expand its functionality with specific types of tags. In Mare Nostrum LAB project, we offer a dedicated **Mare Nostrum Plugin** that allows the use of Mare Nostrum Thesaurus items as tags inside the Recogito.
+Besides its main functionalities, Recogito offers additional plugins that expand its functionality with specific types of tags. In Mare Nostrum LAB project, we offer a dedicated **Mare Nostrum Plugin** that allows the use of Mare Nostrum LAB thesaurus items as tags inside the Recogito.
 
 To access the code repository visit [Mare Nostrum LAB GitLab](https://gitlab.cenagis.edu.pl/uavgeolab/mare-nostrum/recogito).
 
@@ -10,7 +10,7 @@ To access the code repository visit [Mare Nostrum LAB GitLab](https://gitlab.cen
 
 ## Quick Start
 
-### Login to Recogito Studio
+### Login to Recogito
 
 1. Visit `recogito.mn.cenagis.edu.pl` website or click [here](https://recogito.mn.cenagis.edu.pl/en/sign-in).
 
@@ -148,4 +148,32 @@ To access the code repository visit [Mare Nostrum LAB GitLab](https://gitlab.cen
 
 ---
 
-### Mare Nostrum LAB plugin
+### Mare Nostrum LAB thesaurus plugin
+???+ note "Plugins availability"
+    Plugins are available per project. Enable them in each project independently.
+
+1. Open a project as a **Project Admin**.
+
+1. Go to **"Settings"**.
+
+    ![Project Settings](quickstart/project-settings.png)
+
+1. Open the **"Plugins"** tab, click **"Browse Available Plugins"**, and install **Mare Nostrum Lab Thesaurus**.
+
+    ![Install MN Thesaurus plugin](quickstart/install-mn-plugin.png)
+
+1. In the plugin settings, choose which dictionaries are searchable (amphora type, vessel form, chronology, material, and the rest of the MN vocabularies). Optionally keep **Use selected annotation text as the thesaurus search query** enabled.
+
+    ![MN Thesaurus plugin settings](quickstart/mn-plugin-settings.png)
+
+1. Open a document, create or select an annotation, and click **"Add Mare Nostrum LAB thesaurus tag"**.
+
+    ![Add MN thesaurus tag](quickstart/add-mn-tag.png)
+
+1. Search for a concept. Results show the label, dictionary type, description, and thesaurus id.
+
+    ![MN thesaurus search](quickstart/mn-tag-search.png)
+
+1. Select a result. The tag is stored on the annotation and links to the concept in the [Mare Nostrum LAB thesaurus](https://thesaurus.mn.cenagis.edu.pl).
+
+    ![Saved MN thesaurus tag](quickstart/mn-tag-saved.png)

@@ -44,15 +44,18 @@ nav:
       - Add Pottery Records: arches-for-ju-excavations/workflows/add-pottery-records.md
     - Plugins:
       - Map Plugin: arches-for-ju-excavations/plugins/map-plugin.md
-  - Mare Nostrum Thesaurus:
+  - Mare Nostrum LAB thesaurus:
     - Quick Start: mare-nostrum-thesaurus/quickstart.md
     - Account Management: mare-nostrum-thesaurus/account-management.md
     - Creating a New Record in the Thesaurus - Cradle: mare-nostrum-thesaurus/cradle.md
-    - Mare Nostrum Thesaurus - Management: mare-nostrum-thesaurus/mare-nostrum-thesaurus-management.md
+    - Mare Nostrum LAB thesaurus - Management: mare-nostrum-thesaurus/mare-nostrum-thesaurus-management.md
     - Appendices: mare-nostrum-thesaurus/appendices.md
   - Ontology Viewer:
     - Quick Start: ontology-viewer/quickstart.md
-  - Recogito Studio:
+  - GeoNode:
+    - About: geonode/about.md
+    - MN Thesauri plugin: geonode/thesauri-plugin.md
+  - Recogito:
     - Quick Start: recogito-studio/quickstart.md
     - Account Management: recogito-studio/account-management.md
     - Main Activities: recogito-studio/main-activities.md

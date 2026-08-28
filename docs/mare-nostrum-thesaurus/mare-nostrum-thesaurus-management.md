@@ -1,6 +1,6 @@
-# Mare Nostrum Thesaurus - Management
+# Mare Nostrum LAB thesaurus - Management
 
-This section is dedicated to explain all specific procedures which allow searching, modifying and deleting information from the Mare Nostrum Thesaurus.
+This section is dedicated to explain all specific procedures which allow searching, modifying and deleting information from the Mare Nostrum LAB thesaurus.
 
 ---
 
@@ -8,7 +8,7 @@ This section is dedicated to explain all specific procedures which allow searchi
 
 ### Available Data
 
-The Mare Nostrum Thesaurus project offers the following data dictionaries (click to explore):
+The Mare Nostrum LAB thesaurus project offers the following data dictionaries (click to explore):
 
 - [**pottery types - amphorae**](https://thesaurus.mn.cenagis.edu.pl/wiki/Pottery_types_-_amphorae_Dictionary) - Mediterranean amphora types
 

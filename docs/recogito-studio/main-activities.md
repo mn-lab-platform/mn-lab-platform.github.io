@@ -4,12 +4,14 @@ This section provides information on:
 
 - creating a new project,
 - adding a new document,
-- modifying document metadata, 
+- modifying document metadata (including Dublin Core), 
 - creating a group,
 - annotating TEI texts or PDF documents,
 - annotating IIIF, JPG or PNG images,
 - installing Geotagger plugin in your project,
 - using Geotagger plugin,
+- enabling the Mare Nostrum LAB thesaurus plugin,
+- tagging annotations from the Mare Nostrum LAB thesaurus,
 - creating an assignment,
 - fulfilling an assignment.
 
@@ -87,6 +89,11 @@ This section provides information on:
         Here, you can also change a name of the file in the Recogito Studio.
 
     ![Modify metadata](main-activities/modify-metadata.png)
+
+    ???+ note "Dublin Core"
+        The metadata form always lists the 15 Dublin Core elements: Contributor, Coverage, Creator, Date, Description, Format, Identifier, Language, Publisher, Relation, Rights, Source, Subject, Title, Type. Empty values are shown as `novalue`. Extra custom fields can still be added.
+
+    ![Dublin Core document metadata](main-activities/dublin-core-metadata.png)
 
 ---
 
@@ -197,6 +204,57 @@ This section provides information on:
 1. (Optional) If you are not satisfied with the automatic proposition, click **"Change"**, type your text in the dedicated field and choose from displayed list or from the map points.
 
     ![Change location](main-activities/change-location-window.png)
+
+---
+
+## Mare Nostrum LAB thesaurus Plugin
+
+This plugin tags annotations with concepts from the [Mare Nostrum LAB thesaurus](https://thesaurus.mn.cenagis.edu.pl), using the same Recogito plugin shape as Geotagger. It is installed per project.
+
+### Enable the Plugin in Your Project
+
+???+ note "Plugins availability"
+    Plugins are available per project. Enable them in each project independently.
+
+1. Open a project as a **Project Admin**.
+
+1. Go to **"Settings"**.
+
+    ![Project Settings](main-activities/project-settings.png)
+
+1. Open the **"Plugins"** tab, click **"Browse Available Plugins"**, and install **Mare Nostrum Lab Thesaurus**.
+
+    ![Install MN Thesaurus plugin](main-activities/install-mn-plugin.png)
+
+1. In the plugin settings:
+
+    - choose which dictionaries are searchable,
+    - optionally keep **Use selected annotation text as the thesaurus search query** enabled (on by default).
+
+    Dictionaries include amphora type, vessel form, vessel part, chronology, material, style, and the other MN vocabularies.
+
+    ![MN Thesaurus plugin settings](main-activities/mn-plugin-settings.png)
+
+---
+
+### Annotate with a Thesaurus Tag
+
+1. [Enable the plugin in your project](#enable-the-plugin-in-your-project).
+
+1. Mark the text or part of the image, then click **"Add Mare Nostrum LAB thesaurus tag"**.
+
+    ![Add MN thesaurus tag](main-activities/add-mn-tag.png)
+
+1. Type a search string. The plugin queries the thesaurus over SPARQL and lists matching concepts (label, dictionary, description, id).
+
+    ![MN thesaurus search](main-activities/mn-tag-search.png)
+
+    ???+ note
+        If search-from-selection is on, the selected annotation text is used as the initial query.
+
+1. Select a concept. The tag is saved on the annotation and links to the item in the thesaurus. You can edit or remove it later from the same annotation.
+
+    ![Saved MN thesaurus tag](main-activities/mn-tag-saved.png)
 
 ---
 

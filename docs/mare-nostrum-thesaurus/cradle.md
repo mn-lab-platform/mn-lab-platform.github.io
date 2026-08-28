@@ -1,6 +1,6 @@
 # Creating a New Record in the Thesaurus - Cradle
 
-Cradle is a form-based tool for adding new items to the Mare Nostrum Thesaurus dictionaries. Use it when you need to create a record in a specific dictionary (e.g., vessel part, provenance, etc.).
+Cradle is a form-based tool for adding new items to the Mare Nostrum LAB thesaurus dictionaries. Use it when you need to create a record in a specific dictionary (e.g., vessel part, provenance, etc.).
 
 ---
 
@@ -21,9 +21,9 @@ Cradle can only save new items after you log in and grant it permission to edit 
 
     ![Cradle form with Log in to save highlighted](cradle/logintosave.png)
 
-1. Sign in with your Mare Nostrum Thesaurus account.
+1. Sign in with your Mare Nostrum LAB thesaurus account.
 
-    ![Mare Nostrum Thesaurus login page](cradle/loginpage.png)
+    ![Mare Nostrum LAB thesaurus login page](cradle/loginpage.png)
 
     ???+ note "Account required"
         If you are already logged in, you will not see the login page.
