@@ -2,7 +2,7 @@
 
 **GeoNode** is the spatial data catalogue of Mare Nostrum LAB. It is a fork of GeoNode-Project used as the Spatial Data Repository on the platform.
 
-The full upstream user guide is here: https://docs.geonode.org/en/latest/usage/index.html
+The full upstream user guide is [here](https://docs.geonode.org/en/latest/usage/index.html).
 
 This section only covers what Mare Nostrum LAB instance adds on top of that: the Mare Nostrum LAB plugin (thesaurus keywords and local coordinate systems).
 
