@@ -26,7 +26,7 @@ theme:
         name: Light mode
 
 nav:
-  - About Project: index.md
+  - About the Project: index.md
   - Arches for JU Excavations:
     - About: arches-for-ju-excavations/about.md
     - Workflows: 
