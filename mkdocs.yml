@@ -44,6 +44,8 @@ nav:
       - Add Pottery Records: arches-for-ju-excavations/workflows/add-pottery-records.md
     - Plugins:
       - Map Plugin: arches-for-ju-excavations/plugins/map-plugin.md
+  - AfS for Mare Nostrum Lab:
+    - About: afs-for-mare-nostrum-lab/about.md
   - Mare Nostrum LAB thesaurus:
     - Quick Start: mare-nostrum-thesaurus/quickstart.md
     - Account Management: mare-nostrum-thesaurus/account-management.md
