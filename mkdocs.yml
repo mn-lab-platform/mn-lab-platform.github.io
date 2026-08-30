@@ -46,6 +46,8 @@ nav:
       - Map Plugin: arches-for-ju-excavations/plugins/map-plugin.md
   - AfS for Mare Nostrum Lab:
     - About: afs-for-mare-nostrum-lab/about.md
+    - 3D Model Workflow: afs-for-mare-nostrum-lab/3d-model-workflow.md
+    - RTI Workflow: afs-for-mare-nostrum-lab/rti-workflow.md
   - Mare Nostrum LAB thesaurus:
     - Quick Start: mare-nostrum-thesaurus/quickstart.md
     - Account Management: mare-nostrum-thesaurus/account-management.md
