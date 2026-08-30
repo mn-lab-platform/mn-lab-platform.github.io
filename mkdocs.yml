@@ -29,6 +29,7 @@ nav:
   - About the Project: index.md
   - Arches for JU Excavations:
     - About: arches-for-ju-excavations/about.md
+    - Access Control & Permissions: arches-for-ju-excavations/access-control.md
     - Workflows: 
       - Define Coordinate System: arches-for-ju-excavations/workflows/define-coordinate-system.md
       - Assign Coordinate System: arches-for-ju-excavations/workflows/assign-coordinate-system.md
