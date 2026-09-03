@@ -8,7 +8,4 @@ The template of the **Context Field Sheet** currently used for field documentati
 - **Excel version v-2026-09-03:** [Download XLSX file](appendices/Context_field_sheet_v2026_09_03.xlsx)
 - **PDF version v-2026-09-03:** [Download PDF file](appendices/Context_field_sheet_v2026_09_03.pdf)
 
-<iframe src="https://github.com/mn-lab-platform/mn-lab-platform.github.io/blob/16d95ab693a3f68ae2e799d6609b2a3509a531f7/docs/minions/appendices/Context_field_sheet_v2026_09_03.pdf" width="100%" height="800px"></iframe>
-
-
-<iframe src="https://mn-lab-platform.github.io/minions/appendices/Context_field_sheet_v2026_09_03.pdf" width="100%" height="800px"></iframe>
+<iframe src="https://mn-lab-platform.github.io/minions/appendices/Context_field_sheet_v2026_09_03.pdf#pagemode=none&navpanes=0" width="100%" height="800px"></iframe>
