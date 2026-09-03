@@ -37,10 +37,12 @@ Run: **Tools → Estimate Image Quality...**
 Review a few images with the lowest quality values and identify blurred or problematic photographs.
 
 <details>
+  
 <summary>Show Screenshot Hint</summary>
-![ImageQuality](appendices/estimate_image_quality.png)
-</details>
 
+![ImageQuality](appendices/estimate_image_quality.png)
+
+</details>
 
 ---
 
