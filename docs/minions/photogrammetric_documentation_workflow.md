@@ -37,11 +37,8 @@ Run: **Tools → Estimate Image Quality...**
 Review a few images with the lowest quality values and identify blurred or problematic photographs.
 
 <details>
-  
-<summary>Show Screenshot Hint</summary>
-
-![ImageQuality](appendices/estimate_image_quality.png)
-
+  <summary>Show Screenshot Hint</summary>
+  <img src="/minions/appendices/estimate_image_quality.png" alt="Estimate Image Quality" />
 </details>
 
 ---
@@ -58,17 +55,9 @@ Recommended settings:
 - (Advanced) **Tie point limit:** 4 000
 
 <details>
-  
 <summary>Show Screenshot Hint</summary>
-
-![ImageQuality](appendices/AlignImages.png)
-
+<img src="/minions/appendices/AlignImages.png" alt="Align Images"/>
 </details>
-
-
-??? info "Show Screenshot Hint"
-
-    appendices/estimate_image_quality.png
 
 ---
 

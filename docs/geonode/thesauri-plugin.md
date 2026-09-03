@@ -10,7 +10,7 @@ This plugin is a dedicated GeoNode app. It adds Mare Nostrum LAB thesauri (and r
 
 1. In the top bar, open **Edit** and choose **Edit Metadata**.
 
-    ![Open dataset metadata](plugin/open-metadata.png)
+    ![Open dataset metadata](appendices/open-metadata.png)
 
 ---
 
@@ -22,7 +22,7 @@ The metadata form has extra sections next to the standard GeoNode fields. Each s
 * **External Thesauri** — Wikidata and World Historical Gazetteer. Assigned values look like `Nea Pafos [Wd:Q22991943]`.
 * **Data Format** — technical format of the file (for example GeoTIFF). This list can also be opened with the dropdown arrow.
 
-    ![Thesauri fields on the metadata form](plugin/thesauri-fields.png)
+    ![Thesauri fields on the metadata form](appendices/thesauri-fields.png)
 
 The field only shows values already assigned to the record:
 
@@ -44,7 +44,7 @@ The header **Browse MN Thesaurus** shows which dictionary you are querying. **Cl
 
 1. Type at least three characters in the search box (placeholder: *Enter at least 3 characters or press Enter*).
 
-    ![Browse MN Thesaurus, empty search](plugin/browse-mn-thesaurus.png)
+    ![Browse MN Thesaurus, empty search](appendices/browse-mn-thesaurus.png)
 
 **Add selected** stays inactive until at least one result is checked.
 
@@ -56,7 +56,7 @@ The list is scrollable. Each hit has a checkbox (you can pick several), a blue t
 
 1. Press **Add selected**. The modal closes and the chosen items appear as blue tags on the form.
 
-    ![Browse MN Thesaurus, search results](plugin/browse-mn-thesaurus-results.png)
+    ![Browse MN Thesaurus, search results](appendices/browse-mn-thesaurus-results.png)
 
 ---
 
