@@ -65,7 +65,9 @@ nav:
     - Account Management: recogito-studio/account-management.md
     - Main Activities: recogito-studio/main-activities.md
     - Appendices: recogito-studio/appendices.md
-    
+  - Minions: 
+    - Context Field Sheet Template: minions/context_field_sheet_template.md
+    - Photogrammetric Documentation Workflow: minions/photogrammetric_documentation_workflow.md
 markdown_extensions:
   - attr_list
   - admonition
