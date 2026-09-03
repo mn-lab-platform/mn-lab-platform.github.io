@@ -30,19 +30,22 @@ Example:
 
 ## 3. Assess Image Quality
 
-Run:
-
-**Tools → Estimate Image Quality...**
+Run: **Tools → Estimate Image Quality...**
 
 Review image quality values and identify blurred or problematic photographs.
+
+<details>
+<summary>Show Screenshot Hint</summary>
+![Zdjęcie 1](appendices/estimate_image_quality.png)
+appendices/estimate_image_quality.png
+</details>
+
 
 ---
 
 ## 4. Align Photographs
 
-Run:
-
-**Workflow → Align Photos...**
+Run: **Workflow → Align Photos...**
 
 Recommended settings:
 
