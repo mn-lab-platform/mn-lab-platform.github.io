@@ -132,6 +132,7 @@ Run:
 Recommended settings:
 
 - **Quality:** Low
+- (Advanced) **Depth filtering:** Mild
 
 ---
 
@@ -157,15 +158,13 @@ Limit the processing area to the archaeological feature or context being documen
 
 ## 14. Build the Mesh
 
-Run:
-
-**Workflow → Build Mesh...**
+Run: **Workflow → Build Model...**
 
 Recommended settings:
 
-- **Surface Type:** Arbitrary
-- **Source Data:** Dense Cloud
-- **Face Count:** Medium
+- **Source data:** Depth maps
+- **Quality:** Low
+- **Face count:** Medium
 
 ---
 
@@ -180,15 +179,16 @@ Review the mesh geometry and verify that:
 
 ## 16. Build the Texture
 
-Run:
-
-**Workflow → Build Texture...**
+Run: **Workflow → Build Texture...**
 
 Recommended settings:
 
-- **Mapping Mode:** Generic
-- **Blending Mode:** Mosaic
-- **Texture Size / Count:** 4096 × 1
+- **Texture type:** Diffuse map
+- **Source data:** Images
+- **Mapping mode:** Generic
+- **Blending mode:** Mosaic (default)
+- **Texture size:** 4096
+- **Page count:** 1
 
 ---
 
@@ -201,4 +201,4 @@ Inspect the textured model and check for:
 - colour inconsistencies,
 - missing texture coverage.
 
-The model is now ready for export and archaeological documentation.
+The project is now ready to be saved for later (automatic) recomputation and export as archaeological documentation.
