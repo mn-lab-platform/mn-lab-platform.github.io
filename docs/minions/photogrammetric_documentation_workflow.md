@@ -4,15 +4,17 @@
 
 Create a directory named with the acquisition date (e.g. `2018_08_04`).
 
-Inside this directory, create a project folder named according to the trench and context number, for example:
+Inside this directory, create a project directory named according to the trench and context number, for example:
 
 - `PAP_T_II_154`
-- `MAL_TT_IV_186`
+- `MAL_TT_IV_186_187`
 
 Within the project folder:
 
 - store all photographs intended for photogrammetric processing in an `img` subdirectory,
 - store additional documentary photographs separately.
+
+![Directory](appendices/directory.png)
 
 ---
 
@@ -24,7 +26,7 @@ Save the Metashape project using the following naming convention:
 
 Example:
 
-`PAP_T_II_154.psx`
+`PAP_T_VI_520.psx`
 
 ---
 
@@ -32,12 +34,11 @@ Example:
 
 Run: **Tools → Estimate Image Quality...**
 
-Review image quality values and identify blurred or problematic photographs.
+Review a few images with the lowest quality values and identify blurred or problematic photographs.
 
 <details>
 <summary>Show Screenshot Hint</summary>
-![Zdjęcie 1](appendices/estimate_image_quality.png)
-appendices/estimate_image_quality.png
+![ImageQuality](appendices/estimate_image_quality.png)
 </details>
 
 
