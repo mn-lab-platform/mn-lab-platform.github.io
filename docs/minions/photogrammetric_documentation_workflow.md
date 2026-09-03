@@ -46,7 +46,7 @@ Review a few images with the lowest quality values and identify blurred or probl
 
 ---
 
-## 4. Align Photographs
+## 4. Align Images
 
 Run: **Workflow → Align Photos...**
 
@@ -54,6 +54,21 @@ Recommended settings:
 
 - **Accuracy:** High
 - **Pair Preselection:** Disabled
+- (Advanced) **Key point limit:** 40 000
+- (Advanced) **Tie point limit:** 4 000
+
+<details>
+  
+<summary>Show Screenshot Hint</summary>
+
+![ImageQuality](appendices/AlignImages.png)
+
+</details>
+
+
+??? info "Show Screenshot Hint"
+
+    appendices/estimate_image_quality.png
 
 ---
 
