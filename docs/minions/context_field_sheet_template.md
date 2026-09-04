@@ -8,4 +8,4 @@ The template of the **Context Field Sheet** currently used for field documentati
 - **Excel version v-2026-09-04:** [Download PAP](appendices/Context_field_sheet_PAP_v2026_09_04.xlsx) [Download MAL](appendices/Context_field_sheet_MAL_v2026_09_04.xlsx)
 - **PDF version v-2026-09-04:** [Download PAP](appendices/Context_field_sheet_PAP_v2026_09_04.pdf) [Download MAL](appendices/Context_field_sheet_MAL_v2026_09_04.pdf)
 
-<iframe src="/minions/appendices/Context_field_sheet_v2026_09_03.pdf" width="100%" height="800px"></iframe>
+<iframe src="/minions/appendices/Context_field_sheet_PAP_v2026_09_04.pdf" width="100%" height="800px"></iframe>
