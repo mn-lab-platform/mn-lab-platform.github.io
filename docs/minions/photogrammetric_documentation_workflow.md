@@ -80,7 +80,13 @@ Run: **Tools → Markers → Detect Markers...**
 Recommended settings:
 
 - **Marker Type:** Cross (non-coded)
-- **Tolerance:** 90 (or lower if necessary)
+- **Tolerance:** 10 (or higher if necessary)
+- **Maximum residual (pix):** 3 (or higher if necessary)
+
+<details>
+<summary>Show Screenshot Hint</summary>
+<img src="/minions/appendices/DetectMarkers.png" alt="Detect Markers"/>
+</details>
 
 ---
 
