@@ -73,11 +73,9 @@ Confirm that:
 
 ---
 
-## 6. Detect Targets
+## 6. Detect Markers
 
-Run:
-
-**Tools → Markers → Detect Markers...**
+Run: **Tools → Markers → Detect Markers...**
 
 Recommended settings:
 
@@ -89,6 +87,12 @@ Recommended settings:
 ## 7. Assign Marker IDs
 
 Review detected markers and assign the correct marker identifiers.
+
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/minions/appendices/FilerPhotosByMarkers.png" alt="Filter Images" />
+  <img src="/minions/appendices/Rename_Markers.png" alt="Filter Images" />
+</details>
 
 ---
 
@@ -102,6 +106,11 @@ Import the coordinate file containing the surveyed marker coordinates.
 
 If any markers were not detected automatically, manually place marker projections on the relevant photographs.
 
+<details>
+<summary>Show Screenshot Hint</summary>
+<img src="/minions/appendices/Projections.png" alt="Projections on Images"/>
+</details>
+
 ---
 
 ## 10. Check Georeferencing Accuracy
@@ -110,18 +119,26 @@ Verify the marker residuals and overall georeferencing quality.
 
 A **Total Error** of approximately **1 cm (0.010 m)** or less is generally acceptable for archaeological documentation.
 
+<details>
+<summary>Show Screenshot Hint</summary>
+<img src="/minions/appendices/Accuracy.png" alt="GCP Accuracy"/>
+</details>
+
 ---
 
-## 11. Generate Dense Point Cloud
+## 11. Generate Point Cloud
 
-Run:
-
-**Workflow → Build Dense Cloud...**
+Run: **Workflow → Build Dense Cloud...**
 
 Recommended settings:
 
 - **Quality:** Low
 - (Advanced) **Depth filtering:** Mild
+
+<details>
+<summary>Show Screenshot Hint</summary>
+<img src="/minions/appendices/BuildPointCloud.png" alt="Build Point Cloud"/>
+</details> 
 
 ---
 
@@ -155,6 +172,11 @@ Recommended settings:
 - **Quality:** Low
 - **Face count:** Medium
 
+<details>
+<summary>Show Screenshot Hint</summary>
+<img src="/minions/appendices/BuildModel.png" alt="Build Model"/>
+</details> 
+
 ---
 
 ## 15. Inspect the Mesh
@@ -178,6 +200,11 @@ Recommended settings:
 - **Blending mode:** Mosaic (default)
 - **Texture size:** 4096
 - **Page count:** 1
+
+<details>
+<summary>Show Screenshot Hint</summary>
+<img src="/minions/appendices/BuildTexture.png" alt="Build Texture"/>
+</details> 
 
 ---
 
