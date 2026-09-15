@@ -1,5 +1,8 @@
 This workflow allows you to upload and link a 3D model to an existing **(O) Context**  resource in your database. It is designed to take a 3D model package (specifically 3D Tiles format) and automatically create a new Digital Resource, linking it directly to a parent resource of your choosing.
 
+!!! example "Video Guide"
+    <iframe style="width: 100%; aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2I-JuLbog2M?si=Hk-BTC-iD-q4TQ5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ### Step 1: Select Resource
