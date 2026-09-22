@@ -16,5 +16,7 @@ This workflow consists of a single form that requires you to input the parameter
     *   **Direction Longitude & Latitude:** Enter the real-world global coordinates (Longitude and Latitude) to establish the orientation/direction of the local grid (Required).
 *   **Submit:** Once all required fields are filled out, click the green **"Create CRS"** button at the bottom of the form to save the new coordinate system to the database.
 
-> **[IMAGE PLACEHOLDER: CRS Creation Form]**
-> *Highlight suggestion: Draw a box encompassing the entire form, potentially adding small arrows pointing to the required numeric fields (Local X/Y, Origin Lon/Lat, Direction Lon/Lat) and the green "Create CRS" button at the bottom.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/define-coordinate-system/1.png" alt="Create Local Coordinate System" />
+</details>

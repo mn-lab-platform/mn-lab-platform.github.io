@@ -12,8 +12,10 @@ The first step is to select the 3D model or digital resource that you wish to an
 *   **Select a Model:** Click on the card representing the 3D resource you want to work with.
 *   **Confirm Selection:** Once clicked, the resource card will highlight to indicate your selection.
 
-> **[IMAGE PLACEHOLDER: Step 1 Resource Selection]**
-> *Highlight suggestion: Draw a box around the "Search resources..." bar and highlight a selected 3D resource card.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/1.png" alt="Select Resource" />
+</details>
 
 ---
 
@@ -25,8 +27,10 @@ After choosing your 3D model, you must decide what action you want to perform on
 *   **Edit Existing Annotations:** Select this option if you need to modify or update an annotation that has already been created for this model.
 *   **Confirmation:** The card you click will highlight with a blue border and background. Your choice here will determine the steps you see next.
 
-> **[IMAGE PLACEHOLDER: Step 2 Process Selection]**
-> *Highlight suggestion: Highlight the two process selection cards ("Add a New Annotation" and "Edit Existing Annotations"), showing one of them in its active/selected state.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/2.png" alt="Select Process" />
+</details>
 
 ### Step 3: Manage 3D Model Annotations
 
@@ -38,8 +42,10 @@ In this step, your selected 3D model is loaded into an interactive 3D viewer. Th
 *   **Drawing Tools:** Use the drawing tools menu located within the viewer window to draw a new polygon shape directly onto the 3D model's surface.
 *   **Proceeding:** Once you have completed drawing the boundaries of your new annotation, the spatial data is captured, and the workflow will automatically move you to the next step to configure its details.
 
-> **[IMAGE PLACEHOLDER: Step 3 Add Annotation]**
-> *Highlight suggestion: Highlight the main 3D viewer window, and specifically draw a box around the drawing tools menu used to initiate the polygon drawing process.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/3_add.png" alt="Add a New Annotation" />
+</details>
 
 #### If you chose "Edit Existing Annotations"
 *   **Selection Tool:** To modify an existing annotation, you must first activate the custom selection tool. Click the specific selection button in the viewer's toolbar. 
@@ -47,8 +53,10 @@ In this step, your selected 3D model is loaded into an interactive 3D viewer. Th
 *   **Deleting:** You also have the option to completely remove an annotation using the delete function (the system will display a "Deleting annotation..." status message).
 *   **Saving:** When you modify an existing annotation's properties, you will see a "Saving changes..." message as the database updates. Once saved, you will proceed to the next step.
 
-> **[IMAGE PLACEHOLDER: Step 3 Edit Annotation]**
-> *Highlight suggestion: Draw a prominent box or arrow pointing to the specific "special custom cesium viewer tool" button used for selecting existing annotations. If possible, also show the edit panel where the user changes the name, description, and color.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/3_edit.png" alt="Edit Existing Annotations" />
+</details>
 
 ### Step 4: Define the Annotation Object / Summary
 
@@ -59,8 +67,10 @@ If you just finished editing an existing annotation in the 3D viewer, this step 
 *   **Success Message:** You will see a message stating: *"Annotation process completed successfully. You can safely delete the workflow, your changes are saved!"* 
 *   **Next Steps:** Since your edits are instantly saved to the database, you have completed the process and can safely exit the workflow.
 
-> **[IMAGE PLACEHOLDER: Step 4 Edit Summary]**
-> *Highlight suggestion: Highlight the success message text indicating that the process is complete and the changes are saved.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/4_edit.png" alt="Summary" />
+</details>
 
 #### If you chose "Add a New Annotation"
 If you just finished drawing a new polygon shape on the 3D model, you must now provide its identifying details before continuing. 
@@ -70,8 +80,11 @@ If you just finished drawing a new polygon shape on the 3D model, you must now p
 *   **Annotation Color:** Click the square color swatch to open the color picker. Choose the color that will represent this specific annotation on the 3D model.
 *   **Proceeding:** Fill out the form and proceed to the next step to determine how this new annotation will be classified in the system.
 
-> **[IMAGE PLACEHOLDER: Step 4 Annotation Form]**
-> *Highlight suggestion: Draw a box around the entire form, specifically pointing out the text inputs for Name/Description and the interactive Color square.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/4_add.png" alt="Define the Annotation Object" />
+</details>
+
 
 ### Step 5: Select Annotation Type
 
@@ -83,8 +96,10 @@ After defining the details of your new annotation, you must decide how it should
 *   **Create Annotation and Associate with Resource:** Select this option if the area you just annotated represents a distinct physical entity (such as a specific artifact, wall, or feature) that requires its own dedicated resource record in the database. This path will allow you to link the visual annotation directly to a new conceptual record.
 *   **Make a Selection:** Click on the card that fits your needs. The selected card will highlight with a blue border and background. 
 
-> **[IMAGE PLACEHOLDER: Step 5 Annotation Type Selection]**
-> *Highlight suggestion: Highlight the two option cards ("Create Plain Annotation" and "Create Annotation and Associate with Resource"), showing one of them in its active/selected state.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/5.png" alt="Select Annotation Type" />
+</details>
 
 ### Step 6: Select Resource Type / Summary
 
@@ -95,8 +110,10 @@ If you opted to create a standalone annotation, this step acts as your final con
 *   **Success Message:** You will see a success message indicating: *"Annotation process completed successfully. You can safely delete the workflow, your changes are saved!"* 
 *   **Next Steps:** The annotation is now saved to the 3D model. You have completed the process and can safely exit the workflow.
 
-> **[IMAGE PLACEHOLDER: Step 6 Plain Annotation Summary]**
-> *Highlight suggestion: Highlight the success message text indicating that the process is complete.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/6_create_plain.png" alt="Summary" />
+</details>
 
 #### If you chose "Create Annotation and Associate with Resource"
 If you chose to link your new annotation to a dedicated resource record, you must now select the *type* of resource you want to create (e.g., a Context, an Artifact, a Physical Feature, etc.).
@@ -105,8 +122,10 @@ If you chose to link your new annotation to a dedicated resource record, you mus
 *   **Confirmation:** The selected resource card will highlight with a blue border and a light blue background. 
 *   **Proceeding:** Once your resource type is selected, proceed to the next step to fill out the specific details for this new physical resource.
 
-> **[IMAGE PLACEHOLDER: Step 6 Resource Type Picker]**
-> *Highlight suggestion: Highlight the grid of resource type cards, specifically drawing a box around one of the cards in its active/selected state (with the blue border and background).*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/6_create_annotation.png" alt="Create Annotation and Associate with Resource" />
+</details>
 
 ### Step 7: Create or Link Resource
 
@@ -121,8 +140,10 @@ This is the default view. Use this if the object you annotated already has a cor
 *   **Select:** The available records are displayed as cards. Click on the card representing the correct resource. 
 *   **Confirm:** The selected card will be highlighted with a blue border. 
 
-> **[IMAGE PLACEHOLDER: Step 7 Select Existing Resource]**
-> *Highlight suggestion: Draw a box around the toggle switch (showing it in the "Select Existing" position), the search bar, and highlight one of the selected resource cards.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/7_select_existing.png" alt="Select Existing Record" />
+</details>
 
 #### Option B: Create New (Toggle Right)
 Use this if the object you annotated is entirely new and does not yet exist in the database.
@@ -131,8 +152,10 @@ Use this if the object you annotated is entirely new and does not yet exist in t
 *   **Data Entry:** The screen will change to display a data entry form tailored to the resource type you selected in Step 6. Fill out all required fields to define this new resource.
 *   **Save:** Once the form is complete, ensure the new record is saved using the provided form controls before proceeding to the final summary step.
 
-> **[IMAGE PLACEHOLDER: Step 7 Create New Resource]**
-> *Highlight suggestion: Draw a box around the toggle switch (showing it in the "Create New" position with the blue slider) and the data entry form that appears below it.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/7_create_new.png" alt="Create New Parent Resource" />
+</details>
 
 ### Step 8: Summary
 
@@ -141,5 +164,7 @@ This is the final screen confirming that your new annotation has been successful
 *   **Confirmation:** You will see a green success checkmark and the message: **"Annotation created successfully and linked to the resource!"**
 *   **Next Steps:** The entire annotation and linking process is now complete. Your changes are saved to the database. You can safely exit the workflow, or click the button on the screen to view the newly updated resource.
 
-> **[IMAGE PLACEHOLDER: Step 8 Summary]**
-> *Highlight suggestion: Highlight the success message text and, if present, the button allowing the user to view the resource.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-3d/8.png" alt="Summary" />
+</details>

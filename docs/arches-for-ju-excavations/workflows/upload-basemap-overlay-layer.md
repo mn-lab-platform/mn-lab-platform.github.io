@@ -9,8 +9,10 @@ The first step requires you to choose what type of layer you are creating.
 *   **Make a Selection:** You will see a grid of option cards. Click on the card that represents the type of map layer you wish to process (e.g., Basemap or Overlay).
 *   **Confirmation:** The selected card will highlight with a blue border and a light blue background to indicate it is active.
 
-> **[IMAGE PLACEHOLDER: Step 1 Process Selection]**
-> *Highlight suggestion: Draw a box around the active/selected card showing the blue border and background.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/upload-basemap-overlay-layer/1.png" alt="Select Layer Type" />
+</details>
 
 ---
 
@@ -23,8 +25,10 @@ Once the layer type is selected, you will upload your spatial data and configure
 *   **Sort Order:** Enter a number to determine where this layer sits in the list of available map layers. *(Note: The higher the number, the lower the layer will appear in the list).*
 *   **Map Layer Icon:** Select an icon to represent your layer. You can use the **"Search icons..."** bar to find a specific symbol (e.g., 'map' or 'globe') and select it from the grid below. The chosen icon will appear in the preview box next to the title.
 
-> **[IMAGE PLACEHOLDER: Step 2 Upload and Settings]**
-> *Highlight suggestion: Highlight the Dropzone area, the "Map Layer Name" input field, and the "Map Layer Icon" search and grid section.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/upload-basemap-overlay-layer/2.png" alt="Upload GEOTIFF File & Settings" />
+</details>
 
 ---
 
@@ -37,8 +41,10 @@ After filling out the settings and clicking the submit button at the bottom of t
     *   **Private:** Only accessible to authorized, logged-in users.
 *   **Confirm:** Once you have made your selection, click the blue **"Confirm and Create"** button to finalize the upload and create the layer.
 
-> **[IMAGE PLACEHOLDER: Step 3 Visibility Modal]**
-> *Highlight suggestion: Highlight the Public and Private option cards within the modal, and the "Confirm and Create" button.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/upload-basemap-overlay-layer/3.png" alt="Choose Basemap Visibility" />
+</details>
 
 ---
 
@@ -48,5 +54,7 @@ After the system successfully processes the GeoTIFF and creates the layer, you w
 
 *   **Map Preview:** You will see a map container displaying a preview of your newly uploaded layer, allowing you to visually verify that the geographic data has been placed and rendered correctly.
 
-> **[IMAGE PLACEHOLDER: Step 4 Map Preview]**
-> *Highlight suggestion: Draw a subtle border around the map preview container to show where the newly uploaded layer is rendered.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/upload-basemap-overlay-layer/4.png" alt="Preview Your Layer" />
+</details>

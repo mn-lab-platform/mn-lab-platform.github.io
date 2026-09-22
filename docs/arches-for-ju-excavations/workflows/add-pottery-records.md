@@ -12,9 +12,10 @@ The first step requires you to identify the specific Pottery Collection that the
 *   **Select a Collection:** The matching collections will be displayed as clickable cards. Click on the card representing the correct collection.
 *   **Confirm Selection:** The selected card will highlight with a blue border to indicate it is active.
 
-> **[IMAGE PLACEHOLDER: Step 1 Select Pottery Collection]**
-> *Highlight suggestion: Draw a box around the search bar and highlight the selected Pottery Collection resource card.*
-
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/add-pottery-records/1.png" alt="Select Pottery Collection" />
+</details>
 ---
 
 ### Step 2: Pottery Record Import
@@ -31,5 +32,7 @@ In this step, you will select the type of records you are importing, upload your
 *   **Commit Import:** Once all data is correctly mapped and reviewed, click the blue button (e.g., **"Commit Import"** / **"Save"**) to finalize the process. 
 *   **Success:** A green success message will appear, and the preview table will update to show links allowing you to "Open" the newly created individual pottery records.
 
-> **[IMAGE PLACEHOLDER: Step 2 Upload, Review, and Import]**
-> *Highlight suggestion: Highlight the "Record type" dropdown, the "Choose XLSX" button, the Data Preview table (specifically pointing out a highlighted red cell for missing dictionary mapping if possible), and the final commit/save button.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/add-pottery-records/2.png" alt="Pottery Record Import" />
+</details>

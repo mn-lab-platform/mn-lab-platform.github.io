@@ -12,8 +12,10 @@ The first step is to choose the existing parent resource to which your new IIIF 
 *   **Select a Resource:** The available resources are displayed as clickable cards. Click on the card of the target resource.
 *   **Confirm Selection:** The chosen card will highlight to indicate it has been selected.
 
-> **[IMAGE PLACEHOLDER: Step 1 Select Resource]**
-> *Highlight suggestion: Draw a box around the search bar and highlight the selected resource card.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/add-digital-resource-iiif/1.png" alt="Select Resource" />
+</details>
 
 ---
 
@@ -32,5 +34,7 @@ In this step, you will define the new digital resource, upload your files, and p
 *   **Start Upload:** Once the queue is properly set, click the green **"Start Upload"** button.
 *   **Processing:** A progress bar will appear. Wait until you receive the green **"Success!"** message confirming that the files have been processed and the new manifest has been created.
 
-> **[IMAGE PLACEHOLDER: Step 2 Add IIIF Image]**
-> *Highlight suggestion: Highlight the "Resource name" input field, the "Upload mode" radio buttons, the dropzone area, the DEM/Ortho toggle button inside the file table, and the green "Start Upload" button.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/add-digital-resource-iiif/2.png" alt="Add IIIF Image" />
+</details>

@@ -12,8 +12,10 @@ First, you need to identify which existing IIIF resource you want to add new fil
 *   **Select a Resource:** The available IIIF resources will be displayed as clickable cards. Click on the card of the resource you wish to update. 
 *   **Confirm Selection:** The chosen card will highlight to indicate it is selected.
 
-> **[IMAGE PLACEHOLDER: Step 1 Select Existing Resource]**
-> *Highlight suggestion: Draw a box around the "Search IIIF resources..." bar and highlight the selected resource card.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/add-to-digital-resource-iiif/1.png" alt="Select Existing IIIF Resource" />
+</details>
 
 ---
 
@@ -31,5 +33,7 @@ In this step, you will select the type of files you are uploading, add them to t
 *   **Start Upload:** Once your queue is ready and properly classified, click the green **"Start Upload"** button.
 *   **Processing:** A progress bar will appear showing that the system is processing the files. Wait until you see the green **"Success!"** message confirming the files have been processed and appended to the existing manifest.
 
-> **[IMAGE PLACEHOLDER: Step 2 Append Files]**
-> *Highlight suggestion: Highlight the "Upload mode" radio buttons, the dashed Dropzone area, the DEM/Ortho toggle button inside the "Selected files" table, and the green "Start Upload" button.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/add-to-digital-resource-iiif/2.png" alt="Append Files" />
+</details>

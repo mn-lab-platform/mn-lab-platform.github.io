@@ -10,8 +10,10 @@ The first step requires you to choose the specific Coordinate Reference System y
 *   **Select a Single CRS:** Click on the card of the CRS you wish to use. Because you can only assign one CRS at a time, selecting a new card will deselect any previous choice.
 *   **Confirm Selection:** The chosen card will be highlighted, and a green confirmation box will appear at the top displaying the selected CRS name.
 
-> **[IMAGE PLACEHOLDER: Step 1 Select Local CRS]**
-> *Highlight suggestion: Draw a box around the "Search CRS definitions..." bar and highlight the single selected CRS card (showing the blue border and checkmark).*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/assign-coordinate-system/1.png" alt="Select Local CRS" />
+</details>
 
 ---
 
@@ -23,8 +25,10 @@ Next, you will choose which digital resources the selected CRS should be assigne
 *   **Select Multiple Resources:** Unlike the previous step, you can select multiple resources here. Click on as many resource cards as you need; each selected card will be highlighted with a checkmark.
 *   **Selection Tracking:** The system will keep track of how many resources you have selected at the top of the screen.
 
-> **[IMAGE PLACEHOLDER: Step 2 Select Resources]**
-> *Highlight suggestion: Highlight multiple selected resource cards simultaneously to emphasize that this is a multi-selection step.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/assign-coordinate-system/2.png" alt="Select Resources" />
+</details>
 
 ---
 
@@ -37,5 +41,7 @@ The final step provides a summary of your choices before making any changes to t
 *   **Confirm and Assign:** Once you have verified the details, click the blue **"Confirm and assign"** button. 
 *   **Status:** A status message ("Assigning...") will appear, followed by a green success message (or red error message) once the database has been updated.
 
-> **[IMAGE PLACEHOLDER: Step 3 Summary Screen]**
-> *Highlight suggestion: Highlight the expandable "▸ Selected resources" list (preferably shown in its expanded state) and the blue "Confirm and assign" button.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/assign-coordinate-system/3.png" alt="Summary & Confirmation" />
+</details>

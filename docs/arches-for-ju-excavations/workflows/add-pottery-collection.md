@@ -12,8 +12,10 @@ The first step requires you to identify the specific Context resource that the u
 *   **Select a Context:** The matching resources will be displayed as clickable cards. Click on the card representing the correct Context.
 *   **Confirm Selection:** The selected card will highlight with a blue border to indicate it is active.
 
-> **[IMAGE PLACEHOLDER: Step 1 Select Context]**
-> *Highlight suggestion: Draw a box around the search bar and highlight the selected Context resource card.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/add-pottery-collection/1.png" alt="Select Context" />
+</details>
 
 ---
 
@@ -32,5 +34,7 @@ In this step, you will upload your data file, review a preview of the tabular da
     *   **Prepared Data:** Review the tables generated from your file, categorized by their attributes (Type, Diagnostic, Undiagnostic, etc.).
     *   **Missing Concepts:** If your spreadsheet contained terminology not recognized by the system's dictionaries, they will be listed at the bottom so you can address them later.
 
-> **[IMAGE PLACEHOLDER: Step 2 Upload, Preview, and Results]**
-> *Highlight suggestion: Highlight the "Choose CSV/XLSX" button, the Data Preview table, the "Prepare import data" button, and the "Import result" panel containing the generated statistics and tables.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/add-pottery-collection/2.png" alt="Pottery Collection File" />
+</details>

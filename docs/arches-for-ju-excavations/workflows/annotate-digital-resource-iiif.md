@@ -12,8 +12,10 @@ The first step is to choose the existing IIIF resource you want to annotate.
 *   **Select a Resource:** The available resources are displayed as clickable cards. Click on the card of the image you wish to use. 
 *   **Confirm Selection:** The chosen card will highlight to indicate it is selected. 
 
-> **[IMAGE PLACEHOLDER: Step 1 Select IIIF Resource]**
-> *Highlight suggestion: Draw a box around the search bar and highlight the selected resource card.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-iiif/1.png" alt="Select Resource" />
+</details>
 
 ---
 
@@ -29,8 +31,10 @@ Once your resource is selected, the workflow loads the IIIF map viewer. Note: A 
     *   Click the green **"Add annotation"** button to temporarily store this drawing.
 *   **Track Pending Annotations:** At the bottom of the viewer, the system tracks unsaved drawings (e.g., *"Nowe adnotacje oczekują: 1"* / New annotations pending). You must add at least one annotation to unlock the saving process.
 
-> **[IMAGE PLACEHOLDER: Step 2 Viewer and Metadata Modal]**
-> *Highlight suggestion: Highlight the drawing tools on the map viewer, the status text tracking pending annotations at the bottom, and the "New annotation" popup form.*
+<details>
+  <summary>Show Screenshot Hint</summary>
+  <img src="/arches-for-ju-excavations/appendices/annotate-digital-resource-iiif/2.png" alt="Add Annotation to IIIF" />
+</details>
 
 ---
 
