@@ -50,6 +50,3 @@ Once you are ready to save your pending annotations, trigger the save action fro
     *   **Select resource type:** Choose the graph/category from the dropdown.
     *   **Target resource:** Search for and select an existing resource record, or use the provided creator panel below to instantly generate a new record to link to.
 *   **Save:** Click the green **"Save annotations"** button at the bottom right. A loading spinner will appear, followed by a green success message once the database is updated.
-
-> **[IMAGE PLACEHOLDER: Step 3 Finalize Output Modal]**
-> *Highlight suggestion: Highlight the "Save mode" dropdown, the list of annotations in the batch, and the "Save annotations" button.*
